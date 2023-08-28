@@ -2,5 +2,8 @@
 
 | 1° Semestre                          |
 | ------------------------------------ |
-| Linguagem de Programação             |
 | Algoritmos e Programação Estruturada |
+| Análise e Modelagem de Sistemas      |
+| Engenharia de Software               |
+| Linguagem de Programação             |
+| Lógica e Matemática Computacional    |
